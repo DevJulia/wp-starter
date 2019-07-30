@@ -1,10 +1,11 @@
-# Gatling Theme
+# WP Starter Theme
 
 Theme files only, copy this folder in an existing Wordpress installation.
 
 ## How to use Gulp with this theme?
 
 * Install gulp-cli if it is not installed (npm install gulp-cli -g)
+* Run "npm install"
 * Run "gulp watch" for live development
 * For a new build for production, run "gulp build"
 
